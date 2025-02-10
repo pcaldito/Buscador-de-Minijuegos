@@ -1,0 +1,86 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    color: #333;
+}
+
+.formulario{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.formulario input[type="submit"]{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.resultados{
+    width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.resultados h3{
+    color: #333;
+}
+
+.resultados p{
+    color: #666;
+}
+
+.ambitos{
+    width: 400px;
+    margin: 20px auto;
+}
+
+.ambitos p{
+    color: black;
+    background-color:lightgray;
+}
+
+.minijuegos{
+    width: 400px;
+    margin: 20px auto;
+}
+
+
+/* detalles del juego*/
+
+.contenido{
+    width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.contenido p{
+    color: black;
+}
+
+.detalles{
+    width: 400px;
+    margin: 20px auto;
+}
+
+.detalles p{
+    color: black;
+}
